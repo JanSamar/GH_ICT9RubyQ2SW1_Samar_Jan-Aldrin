@@ -1,0 +1,28 @@
+		.class1 {
+			font-family: Times New Roman;
+			color: white;
+			text-align: center;
+		}
+		#title {
+			font-family: Arial;
+			font-size: 48;
+			text-transform: capitalize;
+			letter-spacing: 3;
+			color: white;
+			text-shadow: 3px 2px 4px yellow;
+
+		}
+		#fontname {
+			font-family: Broadway;
+		}
+		.background {
+			background-color: #36393F
+		}
+		#title2 {
+			background-color: Blue;
+			text-align: center;
+			font-size: 24;
+		}
+		#reference {
+			background-color: silver
+		}
